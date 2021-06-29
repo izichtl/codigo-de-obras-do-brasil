@@ -69,6 +69,7 @@ Agradecimentos:
 - **[Plano Diretor](https://legislacao.pgm.fortaleza.ce.gov.br/index.php/Plano_Diretor)**
 -- Data: 2009
 >
+ 
 ## Paraíba
 
 ### João Pessoa
