@@ -27,7 +27,11 @@ Agradecimentos:
 
 # Índice
 
-<!-- TOC depthFrom:2 depthTo:3 -->
+---
+<!-- TOC depthFrom:2 depthTo: -->
+
+
+  
 - [Lista de Códigos de Obras e Construções Brasileiros](#lista-de-códigos-de-obras-e-construções-brasileiros)
 - [Índice](#índice)
 - [Lista](#lista)
@@ -41,7 +45,7 @@ Agradecimentos:
   - [São Paulo](#são-paulo)
     - [Presidente Bernardes](#presidente-bernardes)
     - [São Paulo Capital](#são-paulo-capital)
-  - [Contribua](#contribua)
+- [Contribua](#contribua)
 - [Licença](#licença)
 
 
@@ -142,7 +146,7 @@ Agradecimentos:
 
 ---
 
-## Contribua
+# Contribua
 Para enviar sugestões, atualizações, correções e críticas, você pode:
 
 - Via e-mail:
