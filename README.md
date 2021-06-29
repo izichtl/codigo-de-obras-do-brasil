@@ -3,7 +3,7 @@
 [![Lista de Códigos de Ética Usados no Brasil](img/codigo-de-obras-brasil.png)](https://www.caubr.gov.br/)
 
 
-Este repositório agrupa códigos de obras e outras legislações edilícias relacionadas no estudo, planejamento, produção e construção no território brasileiro.
+Este repositório agrupa códigos de obras e outras legislações edilícias relacionadas ao estudo, planejamento, produção e construção no território brasileiro.
 [Contribuições de conteúdo são encorajadas](#contribua).
 
 O principal objetivo é agrupar e disponibilizar legislações edilícias municipais, tais como: 
@@ -70,6 +70,7 @@ Agradecimentos:
 -- Data: 2009
 >
  
+
 ## Paraíba
 
 ### João Pessoa
@@ -80,8 +81,6 @@ Agradecimentos:
 >
 - **[Código de Posturas](https://www.joaopessoa.pb.gov.br/wp-content/uploads/2020/07/C_digo-de-Posturas-do-Munic_pio-de-JP.pdf)**
 -- Data: 1995
->
-
 >
 - **[Código de Urbanismo](http://www.planmob.joaopessoa.pb.gov.br/wp-content/uploads/2017/06/C%C3%B3digo-de-Urbanismo.pdf)**
 -- Data: 2001
@@ -109,8 +108,10 @@ Agradecimentos:
 >
 - **[Plano Diretor](https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/desenvolvimento_urbano/apresentacao.pdf)**
 -- Data: 2011
-
 >
+
+
+
 ## São Paulo
 ### Presidente Bernardes
 
@@ -119,6 +120,9 @@ Agradecimentos:
 - **[Código de Posturas](http://presidentebernardes.sp.gov.br/wa_files/codigo_de_posturas.pdf)**
 -- Data: 2010
 >
+
+
+
 ### São Paulo Capital
 
 - **[Prefeitura Municipal](http://www.capital.sp.gov.br/)**
