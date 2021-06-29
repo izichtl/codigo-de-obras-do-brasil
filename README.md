@@ -60,7 +60,7 @@ Agradecimentos:
 
 - **[Procedimentos e Licenciamentos](https://portal.seuma.fortaleza.ce.gov.br/fortalezaonline/portal/)**
 >
-- **[Código de Obras e Posturas de Fortaleza](https://portal.seuma.fortaleza.ce.gov.br/fortalezaonline/portal/legislacao/Res%C3%ADduos%20S%C3%B3lidos/3.%20Legisla%C3%A7%C3%A3o%20Municipal/Lei%20n%C2%BA%205.530%20de%2017%20de%20dezembro%20de%201981.pdf)**
+- **[Código de Obras e Posturas de Fortaleza](https://github.com/izichtl/codigo-de-obras-do-brasil/blob/master/pdf/ce_fortaleza_obras_posturas.pdf)**
 -- Data: 1981
 >
 - **[Código da Cidade](https://urbanismoemeioambiente.fortaleza.ce.gov.br/images/urbanismo-e-meio-ambiente/infocidade/codigo-da-cidade/lei_complementar_n_286_de_06_de_janeiro_de_2020.pdf)**
@@ -103,10 +103,10 @@ Agradecimentos:
 
 - **[Prefeitura Municipal](https://prefeitura.rio/)**
 >
-- **[Código de Obras e Edificações Simplificado do Município do Rio de Janeiro](http://smaonline.rio.rj.gov.br/legis_consulta/57738Lei%20Compl%20198_2019.pdf)**
+- **[Código de Obras e Edificações Simplificado do Município do Rio de Janeiro](https://github.com/izichtl/codigo-de-obras-do-brasil/blob/master/pdf/rj_rj_obras_edificacoes.pdf)**
 -- Data: 2019
 >
-- **[Plano Diretor](http://www.rio.rj.gov.br/dlstatic/10112/10402268/4259279/EstruturaeconteudodoPlanoDiretor.pdf)**
+- **[Plano Diretor](https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/desenvolvimento_urbano/apresentacao.pdf)**
 -- Data: 2011
 
 >
@@ -125,7 +125,7 @@ Agradecimentos:
 - **[Código de Obras](https://www.prefeitura.sp.gov.br/cidade/secretarias/subprefeituras/upload/pinheiros/arquivos/COE_1253646799.pdf)**
 -- Data: 1975
 >
-- **[Plano Diretor](http://www.rio.rj.gov.br/dlstatic/10112/10402268/4259279/EstruturaeconteudodoPlanoDiretor.pdf)**
+- **[Plano Diretor](https://gestaourbana.prefeitura.sp.gov.br/arquivos/PDE-Suplemento-DOC/PDE_SUPLEMENTO-DOC.pdf)**
 -- Data: 2011
 >
 - **[Código de Posturas - 1886](https://upload.wikimedia.org/wikipedia/commons/e/ec/C%C3%B3digo_de_Posturas_do_Munic%C3%ADpio_de_S%C3%A3o_Paulo.pdf)**
