@@ -57,6 +57,79 @@ Agradecimentos:
 # Lista
 
 
+## Acre
+
+### Rio Branco
+- **[Prefeitura Municipal](http://www.riobranco.ac.gov.br/)**
+
+- **[Legislação Geral](http://portalcgm.riobranco.ac.gov.br/portal/legislacao/)**
+>
+- **[Código de Obras de Rio Branco](http://portalcgm.riobranco.ac.gov.br/portal/legislacao/codigo-obras/)**
+-- Data: 2018
+>
+- **[Plano Diretor](http://portalcgm.riobranco.ac.gov.br/portal/legislacao/plano-diretor/)**
+-- Data: 2017
+>
+ 
+
+## Alagoas
+
+### Maceió
+- **[Prefeitura Municipal](http://www.maceio.al.gov.br//)**
+
+
+>
+- **[Código de Urbanismo e Edificações](http://www.maceio.al.gov.br/wp-content/uploads/admin/documento/2013/11/Lei-Municipal-5.593-de-08-de-Fevereiro-de-2007-C%C3%93DIGO-DE-URBANISMO-E-EDIFICA%C3%87%C3%95ES-DO-MUNIC%C3%8DPIO-DE-MACEI%C3%93.pdf)**
+-- Data: 2007
+>
+- **[Código de Posturas](http://www.maceio.al.gov.br/wp-content/uploads/admin/documento/2014/10/C%C3%B3digo-de-Posturas-de-Maceio-Lei-N%C2%BA-3538.pdf)**
+-- Data: 1985
+>
+ 
+- **[Plano Diretor](http://www.maceio.al.gov.br/plano-diretor/)**
+-- Data: 2006
+>
+ 
+
+
+## Amapá
+
+### Macapá
+- **[Prefeitura Municipal](https://macapa.ap.gov.br/)**
+
+
+>
+- **[Código de Obras e Instalações](https://macapa.ap.gov.br/arquivos/planodiretormacap/Codigo%20de%20Obras%20e%20Instalacoes.pdf)**
+-- Data: 2004
+>
+
+- **[Plano Diretor](https://antigo.mdr.gov.br/images/stories/ArquivosSNPU/RedeAvaliacao/Macapa_PlanoDiretorAP.pdf)**
+-- Data: 2004
+>
+ 
+
+
+## Amazonas
+
+### Manaus
+- **[Prefeitura Municipal](https://www.manaus.am.gov.br/)**
+
+
+>
+- **[Código Parcelamento e Uso do Solo](https://www2.manaus.am.gov.br/docs/portal/secretarias/implurb/Legisla%c3%a7%c3%a3o/03-Parcelamento%20de%20Solo%20Urbano/Parcelamento%20do%20Solo%20Urbano.pdf)**
+-- Data: 2014
+> 
+
+- **[Código Posturas](https://www2.manaus.am.gov.br/docs/portal/secretarias/implurb/Legisla%c3%a7%c3%a3o/04-C%c3%b3digo%20de%20Postura/Codigo%20de%20Postura.pdf)**
+-- Data: 2014
+>
+
+- **[Plano Diretor](https://www2.manaus.am.gov.br/docs/portal/secretarias/implurb/Legisla%c3%a7%c3%a3o/02-Codigo%20de%20Obras%20e%20Edifica%c3%a7oes/CODIGO%20DE%20OBRAS%20E%20EDIFICACOES.pdf)**
+-- Data: 2014
+>
+ 
+
+
 ## Ceará
 
 ### Fortaleza
