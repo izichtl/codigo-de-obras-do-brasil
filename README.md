@@ -2,6 +2,7 @@
 
 [![Lista de Códigos de Ética Usados no Brasil](img/codigo-de-obras-brasil.png)](https://www.caubr.gov.br/)
 
+[![Total](badges/total.svg)](#lista) 
 
 Este repositório agrupa códigos de obras e outras legislações edilícias relacionadas ao estudo, planejamento, produção e construção no território brasileiro.
 [Contribuições de conteúdo são encorajadas](#contribua).
@@ -35,6 +36,14 @@ Agradecimentos:
 - [Lista de Códigos de Obras e Construções Brasileiros](#lista-de-códigos-de-obras-e-construções-brasileiros)
 - [Índice](#índice)
 - [Lista](#lista)
+  - [Acre](#acre)
+    - [Rio Branco](#rio-branco)
+  - [Alagoas](#alagoas)
+    - [Maceio](#maceió)
+  - [Amapá](#amapá)
+    - [Macapá](#macapá)
+  - [Amazonas](#amazonas)
+    - [Manaus](#manaus)
   - [Ceará](#ceará)
     - [Fortaleza](#fortaleza)
   - [Paraíba](#paraíba)
@@ -97,10 +106,11 @@ Agradecimentos:
 ### Macapá
 - **[Prefeitura Municipal](https://macapa.ap.gov.br/)**
 
+> 
 
->
 - **[Código de Obras e Instalações](https://macapa.ap.gov.br/arquivos/planodiretormacap/Codigo%20de%20Obras%20e%20Instalacoes.pdf)**
 -- Data: 2004
+
 >
 
 - **[Plano Diretor](https://antigo.mdr.gov.br/images/stories/ArquivosSNPU/RedeAvaliacao/Macapa_PlanoDiretorAP.pdf)**
